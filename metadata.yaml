@@ -1,0 +1,36 @@
+_repo: The-Gold-Hunters-AdventuresOr-Life-in-Australia_16050
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Champney, James Wells
+    alias: Champney, J. Wells (James Wells)
+    birthdate: 1843
+    deathdate: 1903
+    gutenberg_agent_id: '6448'
+    url: http://www.gutenberg.org/2009/agents/6448
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomes, William Henry
+    birthdate: 1824
+    deathdate: 1895
+    gutenberg_agent_id: '6447'
+    url: http://www.gutenberg.org/2009/agents/6447
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2005-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16050'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gold mines and mining -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Australia -- Fiction'
+title: The Gold Hunters' Adventures; Or, Life in Australia
+url: http://www.gutenberg.org/ebooks/16050
